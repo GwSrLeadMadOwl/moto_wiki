@@ -1,0 +1,3 @@
+MOTO_WIKI
+
+A simple wikipedia about motorcycles: HONDA CBR1000RR-R SP, DUCATI PANIGALE V4S, BMW M1000RR
